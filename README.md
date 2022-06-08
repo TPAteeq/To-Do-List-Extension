@@ -15,7 +15,7 @@ Download the files and save them in your preferred location. go to chrome://exte
      chrome://extensions/
 
 Enable Developer mode on the top right
-![image](https://user-images.githubusercontent.com/88542309/172653711-9476ded7-e879-423d-aae6-e51b10148f55.png)
+
 
 
 click on "Load Unpacked" and navigate to your folder where the manifest.JSON is present.
